@@ -1,0 +1,61 @@
+@media only screen and (max-width:767px) {
+
+	/* Navigationbar */
+
+	.navbar-menu { height: auto;z-index: 1; }
+	.menu-listing li { display: block; }
+	.navbar-menu .menu-listing { text-align: center; }
+
+	/* End */
+}
+ @media (max-width: 575px){
+	#home{
+		min-height: 90vh;
+	}
+	.banner h1{
+		font-size: 50px;
+		font-family: 'Roboto', sans-serif;
+	}
+
+	.c-box{
+		margin-top: 5px;
+	}
+
+	.item{
+		margin-top: 10px;
+	}
+
+	.s-card{
+		margin-top: 10px;
+	}
+
+	.mail{
+		margin-top: 15px;
+	}
+	
+ }
+
+ @media (max-width: 450px){
+	.banner h1{
+		font-size: 40px;
+		font-family: 'Roboto', sans-serif;
+	}
+	.c-box{
+		margin-top: 5px;
+	}
+
+	.item{
+		margin-top: 10px;
+	}
+
+	.s-card{
+		margin-top: 10px;
+	}
+
+	.mail{
+		margin-top: 15px;
+	}
+	
+ }
+
+
